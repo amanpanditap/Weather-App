@@ -23,6 +23,6 @@ To run this project, you should first Sign Up to <a href = https://openweatherma
 
 # Screenshots :
 
-<img src="Screenshots/Weather-App - Screenshot (774).png" height = 400 width = 800>
-<img src="Screenshots/Weather-App - Screenshot (775).png" height = 400 width = 800>
-<img src="Screenshots/Weather-App - Screenshot (776).png" height = 400 width = 800>
+<img src="Screenshots/Screenshot (774).png" height = 400 width = 800>
+<img src="Screenshots/Screenshot (775).png" height = 400 width = 800>
+<img src="Screenshots/Screenshot (776).png" height = 400 width = 800>
